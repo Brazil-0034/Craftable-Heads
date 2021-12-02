@@ -1,0 +1,9 @@
+name: CraftableHeads
+main: brazil.craftableheads.CraftableHeads
+version: 1.0
+api-version: 1.18
+load: startup
+commands:
+  head:
+    description: Get an online player's head
+    usage: /<command><args>
