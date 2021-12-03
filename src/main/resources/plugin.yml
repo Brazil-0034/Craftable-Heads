@@ -1,0 +1,10 @@
+name: CraftableHeads
+main: brazil.craftableheads.CraftableHeads
+version: 1.0
+api-version: 1.18
+load: startup
+commands:
+  head:
+    description: Snatch a player's head
+    aliases:
+      - skull
